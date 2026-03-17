@@ -23,3 +23,4 @@ installed apps no setting py e botar " 'forum', " na primeira linha
 BAIXAR DJANGO: py -m pip install Django==6.0.3
 BAIXAR SQLITE VIEWER (florian)
 BAIXAR DJANGO no vs (baptiste)
+set-executionpolicy -scope currentuser unrestricted (depois apertar A)
